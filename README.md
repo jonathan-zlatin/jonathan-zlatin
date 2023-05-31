@@ -8,7 +8,7 @@ Coding in Python, C, C++. with experience with ML libraries such as Numpy, Panda
 
 * 🌍  I'm based in Jerusalam
 * ✉️  You can contact me at [jonathanzlatin@gmail.com](mailto:jonathanzlatin@gmail.com)
-* 🧠  I'm learning stochastic processes, IML, C++ and Computability, "A Guide for Data Revolutionists", and much more...
+* 🧠  I'm learning Stochastic processes, IML, C++, Computability, "A Guide for Data Revolutionists" and much more...
 * ⚡  My biggest hobby is traveling, experiencing new places and cultures
 
 ### Skills
