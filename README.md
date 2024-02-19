@@ -8,7 +8,7 @@ Coding in Python, C, C++, Java. with experience with ML libraries such as Numpy,
 
 * 🌍  I'm based in Jerusalam
 * ✉️  You can contact me at [jonathanzlatin@gmail.com](mailto:jonathanzlatin@gmail.com)
-* 🧠  I'm learning NLP, DB, OOP, and much more...
+* 🧠  I'm currently learning NLP, DB, OOP, Django and much more...
 * ⚡  My biggest hobby is traveling, experiencing new places and cultures
 
 ### Skills
