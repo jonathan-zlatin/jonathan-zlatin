@@ -40,6 +40,22 @@ I'm on a journey of continuous learning and exploration. Let's code and innovate
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react.svg" width="36" height="36" alt="React" />
   </a>
+
+ <a target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html.svg" width="36" height="36" alt="React" />
+  </a>
+
+ <a target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css.svg" width="36" height="36" alt="React" />
+  </a>
+
+ <a target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript.svg" width="36" height="36" alt="React" />
+  </a>
+
+ <a target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript.svg" width="36" height="36" alt="React" />
+  </a>
 </p>
 
 
