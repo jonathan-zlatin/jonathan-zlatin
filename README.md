@@ -41,7 +41,7 @@ I'm on a journey of continuous learning and exploration. Let's code and innovate
   </a>
 
  <a target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png"  width="36" height="36" alt="HTML" />
+    <img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png"  width="36" height="36" alt="HTML" />
   </a>
 
  <a target="_blank" rel="noreferrer">
