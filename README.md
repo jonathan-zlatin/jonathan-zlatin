@@ -41,7 +41,7 @@ I'm on a journey of continuous learning and exploration. Let's code and innovate
   </a>
 
  <a target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html.svg" width="36" height="36" alt="HTML" />
+    <img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png"     width="36" height="36" alt="HTML" />
   </a>
 
  <a target="_blank" rel="noreferrer">
@@ -49,11 +49,11 @@ I'm on a journey of continuous learning and exploration. Let's code and innovate
   </a>
 
  <a target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript.svg" width="36" height="36" alt="javascript" />
+    <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" width="36" height="36" alt="javascript" />
   </a>
 
  <a target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript.svg" width="36" height="36" alt="typescript" />
+    <img src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" width="36" height="36" alt="typescript" />
   </a>
 </p>
 
