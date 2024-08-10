@@ -45,7 +45,7 @@ I'm on a journey of continuous learning and exploration. Let's code and innovate
   </a>
 
  <a target="_blank" rel="noreferrer">
-    <img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript.svg](https://img-resize-cdn.joshmartin.ch/2550x0%2C23a14590c8ce7904d387b2aefcdf22500d0b68259a03a15a3cb23a0081316909/https://joshmartin.ch/app/uploads/2017/10/css3.svg)" width="36" height="36" alt="javascript" />
+    <img src="https://joshmartin.ch/app/uploads/2017/10/css3.svg" width="36" height="36" alt="css" />
   </a>
 
  <a target="_blank" rel="noreferrer">
