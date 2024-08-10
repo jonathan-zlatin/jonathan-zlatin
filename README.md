@@ -49,7 +49,7 @@ I'm on a journey of continuous learning and exploration. Let's code and innovate
   </a>
 
  <a target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" width="36" height="36" alt="javascript" />
+    <img src="https://w7.pngwing.com/pngs/681/352/png-transparent-javascript-programming-language-html-computer-programming-python-stickers-text-logo-computer-programming-thumbnail.png" width="36" height="36" alt="javascript" />
   </a>
 
  <a target="_blank" rel="noreferrer">
