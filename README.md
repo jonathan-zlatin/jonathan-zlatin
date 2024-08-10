@@ -37,7 +37,7 @@ I'm on a journey of continuous learning and exploration. Let's code and innovate
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
 
-  <a href="https://www.react.org/" target="_blank" rel="noreferrer">
+  <a href="[https://www.react.org/](https://react.dev/)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react.svg" width="36" height="36" alt="React" />
   </a>
 </p>
