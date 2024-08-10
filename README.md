@@ -5,13 +5,12 @@ Software Engineer
 -----------------
 
 Computer Science student at the Hebrew University,
-specializing in Python, Java, C, C++. In my repositories,
+specializing in Python, Java, C, C++, Typescript. In my repositories,
 you'll find projects spanning NLP, Machine Learning, Game Development, and more! 🚀 
 I'm on a journey of continuous learning and exploration. Let's code and innovate together! 💻✨
 
-* 🌍  I'm based in Jerusalem
+* 🌍  I'm based in Tel Aviv
 * ✉️  You can contact me at [jonathanzlatin@gmail.com](mailto:jonathanzlatin@gmail.com)
-* 🧠  I'm learning NLP, DB, OOP, Django and much more...
 * ⚡  My biggest hobby is traveling, experiencing new places and cultures
 
 ### Skills
@@ -42,19 +41,19 @@ I'm on a journey of continuous learning and exploration. Let's code and innovate
   </a>
 
  <a target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html.svg" width="36" height="36" alt="HTML" />
   </a>
 
  <a target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css.svg" width="36" height="36" alt="CSS" />
   </a>
 
  <a target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript.svg" width="36" height="36" alt="javascript" />
   </a>
 
  <a target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript.svg" width="36" height="36" alt="typescript" />
   </a>
 </p>
 
