@@ -15,45 +15,61 @@ I'm on a journey of continuous learning and exploration. Let's code and innovate
 
 ### Skills
 
+**Languages**
 
 <p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  </a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
   </a>
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+  </a>
+  <a target="_blank" rel="noreferrer">
+      <img src="https://w7.pngwing.com/pngs/681/352/png-transparent-javascript-programming-language-html-computer-programming-python-stickers-text-logo-computer-programming-thumbnail.png" width="36" height="36" alt="javascript" />
+    </a>
+  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Groovy-logo.svg" width="50" height="50" alt="Groovy" />
+  </a>
+   <a target="_blank" rel="noreferrer">
+      <img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png"  width="36" height="36" alt="HTML" />
+    </a>
+</p>
+
+**Tools**
+
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
-
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react.svg" width="36" height="36" alt="React" />
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" width="36" height="36" alt="Cypress" />
   </a>
-
- <a target="_blank" rel="noreferrer">
-    <img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png"  width="36" height="36" alt="HTML" />
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" width="36" height="36" alt="Jenkins" />
   </a>
-
- <a target="_blank" rel="noreferrer">
-    <img src="https://joshmartin.ch/app/uploads/2017/10/css3.svg" width="36" height="36" alt="css" />
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://jestjs.io/img/jest.png" width="36" height="36" alt="Jest" />
   </a>
-
- <a target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/681/352/png-transparent-javascript-programming-language-html-computer-programming-python-stickers-text-logo-computer-programming-thumbnail.png" width="36" height="36" alt="javascript" />
+  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBefscL_EVFyBklxeEL3DucbQgrZ07c-RYqg&s" width="36" height="36" alt="SonarQube" />
   </a>
-
- <a target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png" width="36" height="36" alt="typescript" />
+  <a href="https://www.cloudbees.com/" target="_blank" rel="noreferrer">
+    <img src=https://lsvp.com/wp-content/uploads/2023/03/CloudBees.png width="36" height="36" alt="CloudBees" />
   </a>
 </p>
 
